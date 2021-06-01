@@ -10,6 +10,7 @@ public class Chcksoted {
         return true;
     }
 
+
     public static void display(int [] array) {
         if (!ifsorted(array) ) {
             System.out.println(" The list is not sorted");
